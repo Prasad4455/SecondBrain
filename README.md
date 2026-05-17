@@ -3,7 +3,7 @@
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: light)" srcset="">
-        <img src="" alt="OpenClaw" width="500">
+        <img src="" alt="" width="500">
     </picture>
 </p>
 
